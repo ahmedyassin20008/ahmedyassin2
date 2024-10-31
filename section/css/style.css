@@ -1,0 +1,33 @@
+form{
+    display: flex;
+}
+form a{
+    margin-right: 100px;
+}
+main{
+    background: url(img/image.jpeg) center center/cover;
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+main h1{
+    text-align: center;
+}
+main p{
+    text-align: center;
+    font-size: 20px;
+}
+i{
+    margin-right: 10px;
+}
+i:first-of-type{
+    margin-left: 10px;
+}
+section{
+    background-color: black;
+    color: white;
+    padding: 3rem 7REM;
+}
